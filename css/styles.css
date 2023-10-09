@@ -738,13 +738,14 @@ input {
   font-size: 12px;
   line-height: normal;
   letter-spacing: 0.04em;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   position: relative;
+  line-height: 1.17;
 }
 
 .privacy_policy {
-  color: #404bbf;
+  color: #4d5ae5;
 }
 
 .check_text_box {

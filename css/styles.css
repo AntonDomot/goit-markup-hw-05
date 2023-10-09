@@ -558,7 +558,6 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
   min-width: 165px;
   height: auto;
   border-radius: 4px;
@@ -574,6 +573,7 @@ input {
 
 .foot_btn_icon {
   fill: #fff;
+  margin-left: 16px;
 }
 
 /**==========Modal==============*/
@@ -745,7 +745,6 @@ input {
   letter-spacing: 0.04em;
   display: inline-flex;
   align-items: center;
-  position: relative;
   line-height: 1.17;
 }
 
